@@ -40,4 +40,6 @@
  where 
  --salary= (select  max(salary) from employee_data);
 
+ 
+
  salary = (select min(salary) from employee_data);
