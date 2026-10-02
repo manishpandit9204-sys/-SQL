@@ -22,6 +22,8 @@
         ('Neha','neha@gmail.com','Relationship Manager',55000,'2023-08-30','Bangalore'),
         ('Suresh','suresh@gmail.com','Cashier',28000,'2023-09-12','Hyderabad'),
         ('Anjali','anjali@gmail.com','Clerk',60000,'2023-05-18','Kolkata'),
+
+        
         ('Ravi','ravi@gmail.com','Customer Service Executive',378700,'2023-07-22','Jaipur');
 
 
